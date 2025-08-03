@@ -1,3 +1,3 @@
 import {businessType} from './businessType'
 
-export const schemaTypes = [ businessType,]
+export const schemaTypes = [businessType]
