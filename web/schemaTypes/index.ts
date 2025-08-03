@@ -1,4 +1,4 @@
-import {businessType} from './businessType'
-import {eventType} from './eventType'
+import {business} from './business'
+import {event} from 'event'
 
-export const schemaTypes = [eventType]
+export const schemaTypes = [eventType,business]
